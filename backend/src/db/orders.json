@@ -1,0 +1,13 @@
+[
+    {
+        "orderId": 1,
+        "userId": 1,
+        "foodId": 2,
+        "food": {
+            "foodId": 2,
+            "foodName": "Cheese Burger",
+            "foodImg": "/uploads/burger_cheese.jpeg"
+        },
+        "count": 5
+    }
+]
